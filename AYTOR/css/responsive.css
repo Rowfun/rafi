@@ -1,0 +1,398 @@
+@media (max-width:660px){
+    #min-banner{
+        display:none;
+    }
+}
+
+
+@media (min-width:661px) and (max-width:20000px){
+    #banner_sm{
+        display:none;
+    }
+}
+
+@media (min-width:200px) and (max-width:660px){
+    #banner_sm h2 {
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 29px;
+        line-height: 74px;
+        color: #ffffff;
+        margin-top: 11px;
+        margin-bottom: 6px;
+        margin-left:20px;
+    }
+    #banner_sm p{
+        color:#ffff;
+        margin-left:20px;
+    }
+    #banner_sm span a {
+        font-size: 18px;
+        font-weight: 600;
+        display: inline-block;
+        padding: 11px 31px;
+        color: #ffffff;
+        background-color:#ff9d00;
+        margin-top: 35px;
+        margin-left:20px;
+    }
+
+    #banner_sm .para{
+        display:none;
+    }
+}
+
+@media(min-width:575px) and (max-width:660px){
+    #banner_sm h2 {
+        font-size: 25px;
+        margin-left: -17px;
+    }
+
+    #banner_sm span a {
+        margin-left:-17px;
+    }
+
+    #banner_sm p{
+        color:#ffff;
+        margin-left:-17px;
+    }
+}
+
+
+@media(min-width:661px) and (max-width:700px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 13%;
+    }
+}
+
+@media(min-width:701px) and (max-width:768px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 10%;
+    }
+
+    .banner-slide h2 {
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 51px;
+        line-height: 74px;
+        color: #1D1D1D;
+        margin-top: 30px;
+        margin-bottom: 25px;
+        margin-left: -59px;
+    }
+
+    .banner-slide p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 28px;
+        color: #1D1D1D;
+        margin-left: -53px;
+    }
+
+    .banner-slide span a {
+        font-size: 18px;
+        font-weight: 600;
+        display: inline-block;
+        padding: 13px 37px;
+        color: #ffff;
+        background-color: var(--primaryColo);
+        margin-top: 40px;
+        margin-left: -52px;
+    }
+}
+
+@media(min-width:769px) and (max-width:799px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 7%;
+    }
+}
+
+@media(min-width:822px) and (max-width:834px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 8%;
+    }
+    
+    .banner-slide h2 {
+        font-size: 55px;
+    }
+}
+
+
+@media(min-width:826px) and (max-width:878px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 11%;
+    }
+}
+
+
+@media(min-width:879px) and (max-width:919px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 12%;
+    }
+}
+
+
+@media (min-width:920px) and (max-width:962px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 14%;
+    }
+
+    .banner-slide h2 {
+        font-size: 55px;
+    }
+}
+
+@media(min-width:963px) and (max-width:991px){
+    
+    .banner-slide h2 {
+        font-size: 50px;
+    }
+
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 15%;
+    }
+}
+
+@media(min-width:992px) and (max-width:1032px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 5%;
+    }
+
+    .banner-slide h2 {
+        font-size: 50px;
+    }
+}
+
+@media(min-width:1033px) and (max-width:1073px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 77%;
+        left: 7%;
+    }
+    .banner-slide h2 {
+        font-size: 50px;
+    }
+    
+}
+
+@media(min-width:1073px) and (max-width:1090px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 77%;
+        left: 7%;
+    }
+
+    .banner-slide h2 {
+        font-size: 50px;
+    }
+    
+}
+
+@media(min-width:1090px) and (max-width:1119px){
+    .banner-slide h2 {
+        font-size: 50px;
+    }
+
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 77%;
+        left: 8%;
+    }
+}
+
+
+@media(min-width:1119px) and (max-width:1130px){
+    .banner-slide h2 {
+        font-size: 54px;
+    }
+
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 77%;
+        left: 9%;
+    }
+}
+
+@media(min-width:1130px) and (max-width:1158px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 10%;
+    }
+}
+
+@media(min-width:1158px) and (max-width:1171px){
+    .banner-slide h2 {
+        font-size: 54px;
+    }
+
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 76%;
+        left: 10%;
+    }
+}
+
+@media(min-width:1130px) and (max-width:1157px){
+    .banner-slide h2 {
+        font-size: 53px;
+    }
+
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 77%;
+        left: 10%;
+    }
+}
+
+@media(min-width:1171px) and (max-width:1199px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 78%;
+        left: 11%;
+    }
+    
+    .banner-slide h2 {
+        font-size: 54px;
+    }
+   
+}
+
+
+@media(min-width:1200px) and (max-width:1228px){
+    .banner-slide h2 {
+        font-size: 58px;
+        line-height: 74px;
+        padding-left: 40px;
+    }
+    .banner-slide p {  
+        padding-left: 40px;
+    }
+
+    .banner-slide span a {    
+        margin-left: 40px;
+    }
+
+    #min-banner .slick-dots {
+        top: 77%;
+        left: 8%;
+    }
+}
+
+
+@media(min-width:1229px) and (max-width:1244px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 5%;
+    }
+}
+
+@media(min-width:1245px) and (max-width:1277px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 76%;
+        left: 6%;
+    }
+}
+
+@media(min-width:1278px) and (max-width:1318px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 7%;
+    }
+}
+
+
+@media(min-width:1327px) and (max-width:1339px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 76%;
+        left: 8%;
+    }
+ 
+}
+
+@media(min-width:1339px) and (max-width:1371px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 10%;
+    }
+}
+
+@media(min-width:1373px) and (max-width:1400px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 10%;
+    }
+}
+
+
+@media(min-width:1400px) and (max-width:1453px){
+    .banner-slide h2 {
+        padding-left: 42px;
+    }
+
+    .banner-slide p {
+        padding-left: 42px;
+    }
+
+    .banner-slide span a{
+        margin-left:42px;
+
+    }
+
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 9%;
+    }
+}
+
+
+@media(min-width:1455px) and (max-width:1572px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 9%;
+    }
+}
+
+@media(min-width:1575px) and (max-width:1620px){
+    #min-banner .slick-dots {
+        position: absolute;
+        top: 75%;
+        left: 11%;
+    }
+}
+
+
+
+
+
+
